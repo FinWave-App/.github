@@ -12,7 +12,15 @@ Finwave is an open-source web application for financial management. The mission 
 - Multi-Language Support: Finwave is designed to cater to a global audience with support for multiple languages.
 - Automated Transactions: Set up automatic transactions to streamline recurring financial activities.
 - CSV Import/Export: Easily import and export transactions using CSV files for smooth data migration and backup.
+- Responsive Design: The website is fully responsive and optimized for mobile devices, ensuring a seamless experience on any screen size.
 
+## Demo
+
+<p align="center">
+    <img src="https://github.com/FinWave-App/.github/blob/main/icons/demo-view.png?raw=true" alt="FinWave logo" style="width:1024px;">
+</p>
+
+You can try the [demo here](https://demo.finwave.app/)
 
 ## Projects
 
