@@ -4,15 +4,17 @@
 
 Finwave is an open-source web application for financial management. The mission of the project is to create a convenient and powerful solution for personal finance management.
 
-## Key Features
+## Key Features ⭐
 
-- Multi-Currency Support: Finwave supports a wide range of currencie. Users can also add custom currencies to fit their specific needs, including cryptocurrencies with their unique decimal precision requirements
-- Multiple Accounts: Manage your finances across multiple accounts seamlessly.
-- Hierarchical Categories: Organize your transactions with tree-like category structures for better clarity and management.
-- Multi-Language Support: Finwave is designed to cater to a global audience with support for multiple languages.
-- Automated Transactions: Set up automatic transactions to streamline recurring financial activities.
-- CSV Import/Export: Easily import and export transactions using CSV files for smooth data migration and backup.
-- Responsive Design: The website is fully responsive and optimized for mobile devices, ensuring a seamless experience on any screen size.
+- **Multi-Currency Support**: Finwave supports a wide range of currencies. Users can also add custom currencies to fit their specific needs, including cryptocurrencies with their unique decimal precision requirements
+- **Multiple Accounts**: Manage your finances across multiple accounts seamlessly.
+- **Hierarchical Categories**: Organize your transactions with tree-like category structures for better clarity and convenient management.
+- **Multi-Language Support**: Finwave is designed to cater to a global audience with support for multiple languages.
+- **Automated Transactions**: Set up automatic transactions to streamline recurring financial activities.
+- **CSV Import/Export**: Easily import and export transactions using CSV files for smooth data migration and backup.
+- **Responsive Design**: The website is fully responsive and optimized for mobile devices, ensuring a seamless experience on any screen size.
+- **WebSocket Support**: Real-time synchronization across clients using WebSockets ensures that data is instantly updated across all connected devices.
+- **Reactive Web Client**: Experience a highly responsive web client where page reloads are minimized for a smoother user experience.
 
 ## Demo
 
@@ -22,7 +24,7 @@ Finwave is an open-source web application for financial management. The mission 
 
 You can try the [demo here](https://demo.finwave.app/)
 
-## Projects
+## Projects 💻
 
 ### Main Repositories
 - [**Deploy**](https://github.com/FinWave-App/FinWave-Deploy): A set of scripts for convenient deployment of the application with docker.
@@ -37,7 +39,24 @@ You can try the [demo here](https://demo.finwave.app/)
 - [**Site**](https://github.com/FinWave-App/FinWave-Site): Code for the project's [main webpage](https://finwave.app).
 - [**SCW**](https://github.com/FinWave-App/FinWave-SCW): A library for handling JSON configs in Backend and Telegram Bot.
 
-## Community
+## How to Contribute 🛠️
+
+We appreciate any contributions to improve Finwave! Here are the main ways you can help:
+
+### Translations
+
+If you're interested in helping with translations, please check the existing [en-US.json](https://github.com/FinWave-App/FinWave-Frontend/blob/master/lang/en-US.json) file for the English translations as a reference.
+
+### Roadmap
+
+You can сheck our GitHub Projects: visit [projects page](https://github.com/orgs/FinWave-App/projects) to see what we're currently working on and to contribute to ongoing tasks.
+
+### Code Contributions
+
+If you're a developer and want to help enhance Finwave, feel free to fork the repositories and submit pull requests.
+Thank you for contributing to Finwave and helping to make it a better project! ❤️
+
+## Community 🙋
 
 If you have questions, suggestions, or problem, please create an issue in the corresponding repository. You can also contact me by email or Telegram.
 
