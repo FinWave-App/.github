@@ -1,6 +1,8 @@
 # Finwave
 
-![Finwave Logo](https://github.com/FinWave-App/.github/blob/main/icons/logo_color.png?raw=true)
+<div style="text-align: center;">
+    <img src="https://github.com/FinWave-App/.github/blob/main/icons/logo_color.svg?raw=true" alt="FinWave logo" style="width:256px;">
+</div>
 
 Finwave is an open-source web application for financial management. Our mission is to create a user-friendly and powerful solution for managing personal finances.
 
