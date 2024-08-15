@@ -68,4 +68,4 @@ If you have questions, suggestions, or problem, please create an issue in the co
 
 ## License
 
-All projects are distributed under the MIT License
+All repositories are distributed under the MIT License
