@@ -15,6 +15,7 @@ Finwave is an open-source web application for financial management. The mission 
 - **Responsive Design**: The website is fully responsive and optimized for mobile devices, ensuring a seamless experience on any screen size.
 - **WebSocket Support**: Real-time synchronization across clients using WebSockets ensures that data is instantly updated across all connected devices.
 - **Reactive Web Client**: Experience a highly responsive web client where page reloads are minimized for a smoother user experience.
+- **AI Support**: As far as possible integration with GPT: adding, changing, deleting transactions, categories, accounts, currencies, also viewing analytics and reading various files, including .pdf. It is recommended to use GPT-4o/GPT-4o-mini from OpenAI, but there is also a possibility use [ollama](https://github.com/ollama/ollama)
 
 ## Demo
 
